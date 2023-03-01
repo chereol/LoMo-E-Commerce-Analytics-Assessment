@@ -5,5 +5,3 @@ CMO challenge: Sales performance and prediction (recommended for internship and 
 
 - If you were the Chief Marketing Officer, how would you prioritise your (2C) marketing efforts? Would your strategy differ by region (state)? (Visualising your points on a map would help)
 
-COO challenge: Delivery performance 
-- How would you evaluate current delivery performances? 
